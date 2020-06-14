@@ -143,3 +143,9 @@ Github 地址：[https://github.com/bruceeewong/generator-bue-cms](https://githu
 未完成:
 
 1. 引用部分的处理（不会用 grunt 的 useref）
+
+## 解题思路视频（百度云盘）
+
+辛苦老师检查，感恩
+
+链接: [https://pan.baidu.com/s/1XDIbb3sJx7VVofTZn-8zow](https://pan.baidu.com/s/1XDIbb3sJx7VVofTZn-8zow)　提取码: `hhyw`
