@@ -188,9 +188,9 @@ module.exports = (grunt) => {
 
   grunt.registerTask("build", [
     "clean",
+    "build_html",
     "build_css",
     "build_js",
     "imagemin",
-    "build_html",
   ]);
 };
