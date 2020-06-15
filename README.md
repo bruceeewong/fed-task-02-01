@@ -58,7 +58,6 @@
 功能点：
 
 1. 根据用户输入的工程名，创建 node package、页面的标题
-2. 生成文件后，自动执行 npm 依赖包的安装
 
 Github 地址：[https://github.com/bruceeewong/generator-bue-cms](https://github.com/bruceeewong/generator-bue-cms)
 
