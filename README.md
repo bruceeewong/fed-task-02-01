@@ -2,7 +2,9 @@
 
 > 项目：模块作业
 >
-> 提交者：王思哲 | 时间： 2020/06/13
+> 提交者：王思哲
+>
+> 时间： 2020/06/13
 
 ## 简答题
 
@@ -53,11 +55,16 @@
 1. 通过命令行交互询问用户问题
 2. 根据用户回答，在指定的位置生成相应的文件。
 
-完成了一个基于 Yeoman 快速搭建后台管理系统项目的脚手架。
+完成了一个基于 Yeoman 快速搭建后台管理系统项目的脚手架, 可根据用户输入的工程名、用户名、邮箱，创建 node package、页面的标题
 
-功能点：
+脚手架运行截图：
 
-1. 根据用户输入的工程名，创建 node package、页面的标题
+![](imgs/scaffolding-script.png)
+
+效果截图：
+
+![](imgs/scaffolding-project.png)
+
 
 Github 地址：[https://github.com/bruceeewong/generator-bue-cms](https://github.com/bruceeewong/generator-bue-cms)
 
@@ -145,6 +152,6 @@ Github 地址：[https://github.com/bruceeewong/generator-bue-cms](https://githu
 
 ## 解题思路视频（百度云盘）
 
-辛苦老师检查，感恩
+辛苦老师检查，感恩，相应代码位于项目的 `codes/` 中。
 
 链接: [https://pan.baidu.com/s/1XDIbb3sJx7VVofTZn-8zow](https://pan.baidu.com/s/1XDIbb3sJx7VVofTZn-8zow)　提取码: `hhyw`
