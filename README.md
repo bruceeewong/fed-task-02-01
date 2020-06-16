@@ -1,8 +1,10 @@
-# 拉勾教育 Part02 - Module01 脚手架&自动化构建
+# 拉勾教育 Part02 - Module01 脚手架&自动化构建 
 
-> 项目：模块 2 - Part 1 作业
+> 项目：模块作业
 >
-> 提交者：王思哲 | 时间： 2020/06/13
+> 提交者：王思哲
+>
+> 时间： 2020/06/13
 
 ## 简答题
 
@@ -53,12 +55,16 @@
 1. 通过命令行交互询问用户问题
 2. 根据用户回答，在指定的位置生成相应的文件。
 
-基于 Yeoman 实现了一个后台管理系统的前端项目的快速搭建。
+完成了一个基于 Yeoman 快速搭建后台管理系统项目的脚手架, 可根据用户输入的工程名、用户名、邮箱，创建 node package、页面的标题
 
-功能点：
+脚手架运行截图：
 
-1. 根据用户输入的工程名，创建 node package、页面的标题
-2. 生成文件后，自动执行 npm 依赖包的安装
+![](imgs/scaffolding-script.png)
+
+效果截图：
+
+![](imgs/scaffolding-project.png)
+
 
 Github 地址：[https://github.com/bruceeewong/generator-bue-cms](https://github.com/bruceeewong/generator-bue-cms)
 
@@ -82,7 +88,7 @@ Github 地址：[https://github.com/bruceeewong/generator-bue-cms](https://githu
 2. Scss 的编译(借助`gulp-sass`)
 3. JS 新特性代码编译成浏览器可执行的代码（借助`gulp-babel`）
 
-#####　本地开发与代码热更新
+##### 本地开发与代码热更新
 
 借助 `browser-sync` 提供本地服务器功能;
 
@@ -146,6 +152,6 @@ Github 地址：[https://github.com/bruceeewong/generator-bue-cms](https://githu
 
 ## 解题思路视频（百度云盘）
 
-辛苦老师检查，感恩
+辛苦老师检查，感恩，相应代码位于项目的 `codes/` 中。
 
 链接: [https://pan.baidu.com/s/1XDIbb3sJx7VVofTZn-8zow](https://pan.baidu.com/s/1XDIbb3sJx7VVofTZn-8zow)　提取码: `hhyw`
